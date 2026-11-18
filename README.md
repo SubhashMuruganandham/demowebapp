@@ -4,6 +4,7 @@
 This is for POLL SCM Testing
 Java Hello World web application created using maven-archetype-webapp
 Hello welcome to all leaders of Girls
+Welcome to Devops Academy Oct 2026 batch
 
 ## Blog Post Reference
 https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-delivery/
